@@ -7,7 +7,7 @@
 
 <br>
 
-### <strong>Paper (to appear in the Philippine Computing Journal - 2022)</a> | <a href = "https://kiwigamedev.github.io/Procedural-City-Generator/">Website for source code </a> </strong>
+### <strong>Paper (to appear in the Philippine Computing Journal - 2022) | <a href = "https://kiwigamedev.github.io/Procedural-City-Generator/">Website for source code </a> </strong>
 <b>Note:</b> The paper that will be posted was peer-reviewed and has undergone revisions. It is more updated than the contents in the source code website.
 
 ### Abstract
