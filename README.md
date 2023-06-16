@@ -1,4 +1,4 @@
-# <center> Procedurally Generating Virtual Philippine cities from Road Network Data
+# <center> Procedurally Generating Virtual Philippine Cities from Road Network Data
 ### <center>To appear in Philippine Computing Journal </center>
 ### <center>Neil Patrick Del Gallego, Jacob Manzano, Bruce Anakin Miranda, Jan Carlo San Juan, Jaso Jacob Santiago </center>
 ### <center>De La Salle University - Graphics, Animation, Multimedia, and Entertainment (GAME) Lab</center>
