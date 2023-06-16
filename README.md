@@ -3,7 +3,7 @@
 ### <center>Neil Patrick Del Gallego, Jacob Manzano, Bruce Anakin Miranda, Jan Carlo San Juan, Jaso Jacob Santiago </center>
 ### <center>De La Salle University - Graphics, Animation, Multimedia, and Entertainment (GAME) Lab</center>
 
-<center><img src="web_img/logo_1.png" width="387"></center>
+<center><img src="web_img/logo_1.png"></center>
 
 <br>
 
